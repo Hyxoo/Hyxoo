@@ -14,14 +14,19 @@
 **`People's lives don't end when they die. It end's when they lose faith.`** 
 
 ## **🍜 About me**
-<a href="https://github.com/Hyxoo"><img align="left" width="100" src="https://graph.org/file/a1c29ea9ea20b99688618.png"></a>
-Salutations! I am Hridoy, an itinerant mage, bearing the name "Hyxoo," which reverberates like an enchanting spell. Within my essence resides a passion that spans the realms of gaming, anime, manga, and the enigmatic realms of coding and tinkering.
-<br><b>
+<div>
+  <a href="https://github.com/Hyxoo">
+    <img align="left" width="100" src="https://graph.org/file/a1c29ea9ea20b99688618.png">
+  </a>
 
-## **💻 Experience**
-<a href="https://github.com/Hyxoo">
-<img align="right" width="200" src="https://giffiles.alphacoders.com/979/9795.gif"></a>
-As a 10th standard student, I don't have much experience but im trying to learn more and more about coding. Trying my best to create some bots.
+  <h2>Salutations!</h2>
+  <p>I am Hridoy, an itinerant mage, bearing the name "Hyxoo," which reverberates like an enchanting spell. Within my essence resides a passion that spans the realms of gaming, anime, manga, and the enigmatic realms of coding and tinkering.</p>
+</div>
+
+<div>
+  <h2>💻 Experience</h2>
+  <p>As a 10th Standard Student, I don't have much experience but im trying to learn more and more about Programming. Trying to improve day by day.</p>
+</div>
 
 
 ## **🏆 Trophies**

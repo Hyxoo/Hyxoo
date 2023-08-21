@@ -14,7 +14,7 @@
 **`People's lives don't end when they die. It end's when they lose faith.`** 
 
 ## **🍜 About me**
-<a href="https://github.com/Hyxoo"><img align="left" width="100" src="https://graph.org/file/f52e7aff688d9204e9d97.png"></a>
+<a href="https://github.com/Hyxoo"><img align="left" width="100" src="https://graph.org/file/a1c29ea9ea20b99688618.png"></a>
 Salutations! I am Hridoy, an itinerant mage, bearing the name "Hyxoo," which reverberates like an enchanting spell. Within my essence resides a passion that spans the realms of gaming, anime, manga, and the enigmatic realms of coding and tinkering.
 <br><b>
 

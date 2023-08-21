@@ -19,8 +19,8 @@
     <img align="left" width="100" src="https://graph.org/file/a1c29ea9ea20b99688618.png">
   </a>
 
-  <h2>Salutations!</h2>
-  <p>I am Hridoy, an itinerant mage, bearing the name "Hyxoo," which reverberates like an enchanting spell. Within my essence resides a passion that spans the realms of gaming, anime, manga, and the enigmatic realms of coding and tinkering.</p>
+  <h2></h2>
+  <p>Salutations! I am Hridoy, an itinerant mage, bearing the name "Hyxoo," which reverberates like an enchanting spell. Within my essence resides a passion that spans the realms of gaming, anime, manga, and the enigmatic realms of coding and tinkering.</p>
 </div>
 
 <div>
